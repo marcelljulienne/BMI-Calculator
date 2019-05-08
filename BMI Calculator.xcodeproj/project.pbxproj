@@ -22,6 +22,7 @@
 		09414982228140EE00280DFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09414985228140EE00280DFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09414987228140EE00280DFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		097840912283154F0062B522 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				0941497B228140ED00280DFD /* AppDelegate.swift */,
 				0941497D228140ED00280DFD /* ViewController.swift */,
+				097840912283154F0062B522 /* README.md */,
 				0941497F228140ED00280DFD /* Main.storyboard */,
 				09414982228140EE00280DFD /* Assets.xcassets */,
 				09414984228140EE00280DFD /* LaunchScreen.storyboard */,
